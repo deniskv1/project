@@ -1,15 +1,15 @@
 'use strict';
 
-a = 5;
-console.log(a);
+// a = 5;
+// console.log(a);
 
 let persone = {
     name: "John",
     age: 25,
     isMarried: false
-}
+};
 
-console.log(persone["age"]);
+console.log(persone.age);
 
 let arr = ['plum.png', 'orange.jpeg', 'apple.bmp'];
 
